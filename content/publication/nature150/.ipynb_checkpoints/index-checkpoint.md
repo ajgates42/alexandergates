@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Nature* **575** 32-34"
 publication_short: ""
 
-abstract: There is extensive, yet fragmented, evidence of gender differences in academia suggesting that women are underrepresented in most scientific disciplines and publish fewer articles throughout a career, and their work acquires fewer citations. Here, we offer a comprehensive picture of longitudinal gender differences in performance through a bibliometric analysis of academic publishing careers by reconstructing the complete publication history of over 1.5 million gender-identified authors whose publishing career ended between 1955 and 2010, covering 83 countries and 13 disciplines. We find that, paradoxically, the increase of participation of women in science over the past 60 years was accompanied by an increase of gender differences in both productivity and impact. Most surprisingly, though, we uncover two gender invariants, finding that men and women publish at a comparable annual rate and have equivalent career-wise impact for the same size body of work. Finally, we demonstrate that differences in publishing career lengths and dropout rates explain a large portion of the reported career-wise differences in productivity and impact, although productivity differences still remain. This comprehensive picture of gender inequality in academia can help rephrase the conversation around the sustainability of women’s careers in academia, with important consequences for institutions and policy makers.
+abstract: How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,19 +34,20 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.pnas.org/content/117/9/4609
+url_pdf: https://www.nature.com/articles/d41586-019-03308-7
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://www.youtube.com/watch?v=GW4s58u8PZo
+# url_media: https://www.nature.com/immersive/d42859-019-00121-0/index.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
