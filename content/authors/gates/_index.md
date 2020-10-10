@@ -4,7 +4,7 @@ title: Alexander J. Gates
 
 # Username (this should match the folder name)
 authors:
-- admin
+- gates
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,12 +22,14 @@ organizations:
   url: "https://www.northeastern.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network science and computational social science.
+bio: I am a network scientist with a passion for uncovering how interconnectedness shapes our lives.
 
 interests:
 - Network Science
+- Science of Science
 - Computational Social Science
-- Information processing
+- Information and Control in Complex Systems
+
 
 education:
   courses:
@@ -51,13 +53,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:ajgates42@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Alex_Gates42
-- icon: google-scholar
+  link: "https://twitter.com/Alex_Gates42"
+- icon: "google-scholar"
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=lWadInsAAAAJ&hl=en
+  link: "https://scholar.google.com/citations?user=lWadInsAAAAJ&hl=en"
 - icon: github
   icon_pack: fab
-  link: https://github.com/ajgates42
+  link: "https://github.com/ajgates42"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -74,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-My research explores how interconnectedness shapes the social, scientific, and business world around us.  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology and Management Science---to draw insights from large longitudinal datasets and uncover the interplay between the temporal dynamics of individuals, the emergent structural patterns of organizations and markets, and the processes that encourage innovation.  
+My research explores *how interconnectedness shapes the social, scientific, and business world around us*.  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology and Management Science. 

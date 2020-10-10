@@ -1,7 +1,7 @@
 ---
 title: "Nature's Reach: narrow work has broad impact"
 authors:
-- admin
+- gates
 - Qing Ke
 - Onur Varol
 - Albert-Laszlo Barabasi
@@ -25,15 +25,15 @@ publication_short: ""
 abstract: How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines."
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
-# - name: ""
-#   url: ""
+#- name: "Interactive"
+#  url: "https://www.nature.com/immersive/d42859-019-00121-0/index.html "
 url_pdf: https://www.nature.com/articles/d41586-019-03308-7
 url_code: ''
 url_dataset: ''

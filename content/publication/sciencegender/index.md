@@ -2,15 +2,16 @@
 title: "Historical comparison of gender inequality in scientific careers across countries and disciplines"
 authors:
 - Junming Huang
-- admin
+- gates
 - Roberta Sinatra
 - Albert-Laszlo Barabasi
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020-03-01T00:00:00Z"
-doi: ""
+- "contributed equally"
+- "contributed equally"
+
+date: "2020-03-03T00:00:00Z"
+doi: "10.1073/pnas.1914221117"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-01T00:00:00Z"
@@ -38,7 +39,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://www.pnas.org/content/117/9/4609
-url_code: ''
+url_code: https://github.com/SciSciCollective/pyscisci
 url_dataset: ''
 url_poster: ''
 url_project: ''
