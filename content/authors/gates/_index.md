@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-My research explores *how interconnectedness shapes the social, scientific, and business world around us*.  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology and Management Science. 
+My research explores *how interconnectedness shapes the social, scientific, and business world around us.*  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology. 
