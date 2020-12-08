@@ -4,7 +4,8 @@ summary: "CANAlization: Control & Redundancy in Boolean Networks."
 tags:
 - Code
 - BooleanNetwork
-date: "2020-04-27T00:00:00Z"
+
+date: "2018-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +40,9 @@ Here we provide a publicly-available Python package that simulates the dynamics 
 
 Read More:
 ---------------
+{{< cite page="/publication/effectivegraph" view="1" >}}
+
 {{< cite page="/publication/bncontrol" view="1" >}}
 
 {{< cite page="/publication/cana" view="1" >}}
+

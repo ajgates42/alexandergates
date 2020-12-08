@@ -2,16 +2,15 @@
 title: "Historical comparison of gender inequality in scientific careers across countries and disciplines"
 authors:
 - Junming Huang
-- gates
+- admin
 - Roberta Sinatra
 - Albert-Laszlo Barabasi
 
 author_notes:
-- "contributed equally"
-- "contributed equally"
-
-date: "2020-03-03T00:00:00Z"
-doi: "10.1073/pnas.1914221117"
+- "Equal contribution"
+- "Equal contribution"
+date: "2020-03-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-01T00:00:00Z"
@@ -32,14 +31,14 @@ abstract: There is extensive, yet fragmented, evidence of gender differences in 
 summary: By studying the publication careers of over 1.5 million scientists, we take a career-focused persepective to identify the factors inhibiting gender equity in STEM.  We find that despite an improved trend towards population equality, the gender differences in career-wise productivity and impact have been growing over the last 70 years. Yet, the research outcomes of men and women year to year are essentially equivalent.  Third, and most importantly, women are ending their publishing careers at higher rates than men, and this is happening across every stage of their careers. 
 
 tags:
-- ScienceOfScience
+- Source Themes
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: https://www.pnas.org/content/117/9/4609
-url_code: https://github.com/SciSciCollective/pyscisci
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -70,27 +69,4 @@ slides: example
 ---
 
 
-In the Media:
---------
-1. **PNAS** [``Do the social roles that women and men occupy in science allow equal access to publication?''](https://www.pnas.org/content/117/11/5553.short?casa_token=AR0eR4RsHl0AAAAA:kdqPcG1ClPnOqz-XKlhAFGLmYNcSp-Bd34XiCYOJjem1VkxEiANWXj04e66FTfZGxe4Gg__SSHIW )
-
-2. **Nature Index** [``Women rival men in scientific research publications and citations''](https://www.natureindex.com/news-blog/women-rival-men-in-scientific-publications-citations )
-
-3. **Inside Higher Education** [``Gender Inequality in Science Careers and Publishing''](https://www.insidehighered.com/quicktakes/2020/02/19/gender-inequality-science-careers-and-publishing )
-
-4. **Diverse News** [``Study: Gender Inequality Persists in Science Careers and Publishing''](https://diverseeducation.com/article/168041/ )
-
-5. **Chemical & Engineering News** [``Women publish at rates equal to men but leave science earlier''](https://cen.acs.org/careers/women-in-science/Women-publish-rates-equal-men/98/i8 )
-
-6. **Drug Target Review**) [``Gender inequality in STEM publishing due to female dropout rates, says study''](https://www.drugtargetreview.com/news/56315/gender-inequality-in-stem-publishing-due-to-female-dropout-rates-says-study/ )
-       
-7. **Science Nordic** [``Women are not formally discriminated against in Norwegian academia but they still dont become professors'' ](https://sciencenorway.no/academia-gender-gender-and-society/women-are-not-formally-discriminated-against-in-norwegian-academia--but-they-still-dont-become-professors/1650109 ) 
-
-8. **The Paper** [(in chinese)](https://www.thepaper.cn/newsDetail_forward_6190423)
-       
-9. **News@Northeastern** [``Do women publish less than men in scientific fields? Turns out, scientists have been asking the wrong question.''](https://news.northeastern.edu/2020/03/05/do-women-publish-less-than-men-in-scientific-fields-turns-out-scientists-have-been-asking-the-wrong-question/)
-
-        
-
-
-
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

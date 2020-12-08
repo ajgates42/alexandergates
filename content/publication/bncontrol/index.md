@@ -30,7 +30,8 @@ summary: "The study of network structure has uncovered signatures of the organiz
 
 
 tags:
-- Source Themes
+- BooleanNetworks
+- GeneticRegulatoryNetworks
 featured: false
 
 # links:

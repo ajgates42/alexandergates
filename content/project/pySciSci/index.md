@@ -1,25 +1,26 @@
 ---
 title: pySciSci
-summary: "pySciSci: Control & Redundancy in Boolean Networks."
+summary: "pySciSci: A python package for the science of science."
 tags:
 - Code
 - ScienceOfScience
-date: "2020-04-27T00:00:00Z"
+
+date: "2020-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: The conditional effective graph of ER+ Breast Cancer.
+  caption: ''
   focal_point: Smart
 
 links:
 - icon: github
   icon_pack: fab
-  link: "https://github.com/rionbr/CANA"
-- icon: book
-  icon_pack: fa
-  link: "https://rionbr.github.io/CANA/"
+  link: "https://github.com/SciSciCollective/pyscisci"
+#- icon: book
+#  icon_pack: fa
+#  link: "https://rionbr.github.io/CANA/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -33,4 +34,11 @@ url_video: ""
 slides: ""
 ---
 
-Logical models offer a simple but powerful framework to understand the complex dynamics of biochemical regulation, without the need to estimate kinetic parameters. However, even simple automata components can lead to collective dynamics that are computationally intractable when aggregated into large networks. Here we provide a publicly-available Python package that simulates the dynamics and control of Boolean Network models.  **CANA** can also be used to calculate all measures of canalization that derive from removing dynamical redundancy via two-symbol schemata re-description (Marques-Pita and Rocha, 2013) *effective connectivity*, *input redundancy*, and *input symmetry*. At the network level, **CANA** also calculates the *effective graph*, a weighted and directed graph whose edge weights denote their effective contribution to node transitions.  Finally, **CANA** can compute several measures of controllability that depend on the *Controlled State Transition Graph*.
+The science of science (SciSci) encompasses interdisciplinary research programs that study the processes underlying science. The field has benefited greatly from access to massive digital databases containing the products of scientific discourse---including publications, journals, patents, books, conference proceedings, and grants. The subsequent proliferation of mathematical models and computational techniques for quantifying the dynamics of innovation and success in science has made it difficult to disentangle universal scientific processes from those dependent on specific databases, data-processing decisions, field practices, etc.. Here we present *pySciSci*, a freely available and easily adaptable Python package for the analysis of large-scale bibliometric data.  The *pySciSci* package standardizes access to many of the most common datasets in SciSci and provides efficient implementations of common and advanced analytical techniques.
+
+Read More:
+---------------
+{{< cite page="/publication/sciencegender" view="1" >}}
+
+{{< cite page="/publication/nature150" view="1" >}}
+

@@ -32,7 +32,7 @@ summary: ""
 
 
 tags:
-- Source Themes
+- BooleanNetworks
 featured: false
 
 # links:

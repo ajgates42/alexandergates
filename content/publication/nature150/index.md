@@ -28,7 +28,7 @@ abstract: How knowledge informs and alters disciplines is itself an enlightening
 summary: "How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines."
 
 tags:
-- Source Themes
+- ScienceOfScience
 featured: true
 
 # links:
@@ -70,8 +70,14 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+In the Media:
+--------
+1. **Fast Company** [``This mesmerizing 3D map visualizes millions of scientific studies''](https://www.fastcompany.com/90427630/this-mesmerizing-image-charts-millions-of-scientific-studies-over-150-years )
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+2. **InfoDocket** [``A Network of Science: 150 Years of Nature Papers''](https://www.infodocket.com/2019/11/11/video-a-network-of-science-150-years-of-nature-papers/ )
+
+3. **ICMAB** [``A network of science: 150 years of Nature papers''](https://icmab.es/a-network-of-science-150-years-of-nature-papers )
+
+4. **Hungarian Insider** [``Hungarian helps Nature magazine celebrate 150th anniversary'' ](https://hungarianinsider.com/hungarian-helps-nature-magazine-celebrate-150th-anniversary-2856/ )
+
+5. **News@Northeastern** [``150 years of science in a cosmic web of paper trails'' ](https://news.northeastern.edu/2019/11/13/a-cosmic-data-visualization-celebrates-science-journal-natures-150-year-anniversary/ )
