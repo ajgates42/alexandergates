@@ -42,3 +42,6 @@ Read More:
 
 {{< cite page="/publication/nature150" view="1" >}}
 
+{{< cite page="/publication/naturehgp" view="1" >}}
+
+{{< cite page="/publication/advancecareer" view="1" >}}

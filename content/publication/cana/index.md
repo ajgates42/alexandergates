@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['boolean networks']
+projects: ['booleannetwork', 'cana']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -68,5 +68,3 @@ projects: ['boolean networks']
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

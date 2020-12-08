@@ -32,7 +32,7 @@ summary: ""
 
 
 tags:
-- Source Themes
+- Clustering
 featured: false
 
 # links:
@@ -60,7 +60,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['clustering']
+projects: ['clustering', 'clusim']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -69,5 +69,3 @@ projects: ['clustering']
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
