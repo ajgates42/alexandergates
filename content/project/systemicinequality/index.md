@@ -3,6 +3,7 @@ title: Systemic Inequality in Science & Art
 summary: Quantifying systemic gender and nationality inequality in science and art.
 tags:
 - ScienceOfScience
+- GenderInequality
 - Research
 
 date: "2020-09-27T00:00:00Z"
@@ -42,3 +43,4 @@ Read More:
 
 {{< cite page="/publication/artgender" view="1" >}}
 
+{{< cite page="/publication/advancecareer" view="1" >}}
