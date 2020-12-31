@@ -22,7 +22,8 @@ publication_types: ["2"]
 publication: "*Nature* **575** 32-34"
 publication_short: ""
 
-abstract: How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines.
+abstract: "How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines.
+[Make sure to visit the interactive 3D network](https://www.nature.com/immersive/d41586-019-03165-4/index.html)."
 
 # Summary. An optional shortened abstract.
 summary: "How knowledge informs and alters disciplines is itself an enlightening, and vibrant field. This type of meta research into new findings, insights, conceptual frameworks and techniques is important, among other things, for policymakers who fund research in the hope of tackling society’s most pressing challenges, which inevitably span disciplines."
