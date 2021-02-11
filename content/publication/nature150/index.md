@@ -7,7 +7,7 @@ authors:
 - Albert-Laszlo Barabasi
 
 date: "2019-11-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/d41586-019-03308-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-11-01T00:00:00Z"

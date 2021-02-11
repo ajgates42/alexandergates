@@ -28,7 +28,7 @@ interests:
 - Network Science
 - Science of Science
 - Computational Social Science
-- Sociotechnical Innovation
+- Complex Systems
 - Information and Control in Complex Systems
 
 
