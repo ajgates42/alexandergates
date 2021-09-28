@@ -14,20 +14,20 @@ role: Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: BarabasiLab
-  url: "https://www.barabasilab.com"
+- name: Sociology & Anthropology
+  url: "https://cssh.northeastern.edu/socant/about/"
 - name: Network Science Institute
   url: "https://www.networkscienceinstitute.org"
 - name: Northeastern University
   url: "https://www.northeastern.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a network scientist with a passion for uncovering how interconnectedness shapes our lives.
+bio: I am a computational social scientist and network scientist with a passion for uncovering how interconnectedness shapes our lives.
 
 interests:
+- Computational Social Science
 - Network Science
 - Science of Science
-- Computational Social Science
 - Complex Systems
 - Information and Control in Complex Systems
 

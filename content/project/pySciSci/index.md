@@ -36,6 +36,8 @@ slides: ""
 
 The science of science (SciSci) encompasses interdisciplinary research programs that study the processes underlying science. The field has benefited greatly from access to massive digital databases containing the products of scientific discourse---including publications, journals, patents, books, conference proceedings, and grants. The subsequent proliferation of mathematical models and computational techniques for quantifying the dynamics of innovation and success in science has made it difficult to disentangle universal scientific processes from those dependent on specific databases, data-processing decisions, field practices, etc.. Here we present *pySciSci*, a freely available and easily adaptable Python package for the analysis of large-scale bibliometric data.  The *pySciSci* package standardizes access to many of the most common datasets in SciSci and provides efficient implementations of common and advanced analytical techniques.
 
+Find the code on Github: https://github.com/SciSciCollective/pyscisci
+
 Read More:
 ---------------
 {{< cite page="/publication/sciencegender" view="1" >}}

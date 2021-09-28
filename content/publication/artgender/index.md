@@ -3,6 +3,7 @@ title: "Quantifying systemic gender inequality in art"
 authors:
 - Xindi Wang
 - gates
+- Magnus Resch
 - Albert-Laszlo Barabasi
 
 date: "2020-12-03T00:00:00Z"
