@@ -1,15 +1,15 @@
 ---
-title: "Mapping Philanthropy in Science"
+title: "Mapping Philanthropic Support of Science"
 authors:
 - Louis M. Shekhtman
 - gates
 - Albert-Laszlo Barabasi
 
-date: "2021-12-03T00:00:00Z"
+date: "2022-06-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-09-01T00:00:00Z"
+publishDate: "2022-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: We map philanthropic funding in science based on IRS tax forms from 620,325 non-profit organizations. We find that in volume and scope, philanthropic funding is comparable to federal funding for research. However, whereas federal funding is based on a few large organizations giving grants, the philanthropic ecosystem’s support for research is fragmented among many funders supporting research institutions at varying levels. Furthermore, distinctly from government grants, philanthropic funders tend to focus locally, suggesting that other criteria, beyond research excellence, play an important role in their funding decisions. Similarly, once a grant-giving relationship begins, it tends to persist in time. Finally, we discuss the policy implications of our findings for philanthropic funders, individual researchers, and for quantitative studies of philanthropy in general. 
+abstract: "We map philanthropic funding in science based on IRS tax forms from 620,325 non-profit organizations. We find that in volume and scope, philanthropic funding is comparable to federal funding for research. However, whereas federal funding is based on a few large organizations giving grants, the philanthropic ecosystem’s support for research is fragmented among many funders supporting research institutions at varying levels. Furthermore, distinctly from government grants, philanthropic funders tend to focus locally, suggesting that other criteria, beyond research excellence, play an important role in their funding decisions. Similarly, once a grant-giving relationship begins, it tends to persist in time. Finally, we discuss the policy implications of our findings for philanthropic funders, individual researchers, and for quantitative studies of philanthropy in general."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -33,9 +33,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2206.10661'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://github.com/Barabasi-Lab/mapping-philanthropy'
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -10,39 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Research Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Sociology & Anthropology
-  url: "https://cssh.northeastern.edu/socant/about/"
-- name: Network Science Institute
-  url: "https://www.networkscienceinstitute.org"
-- name: Northeastern University
-  url: "https://www.northeastern.edu"
+- name: School of Data Science
+  url: "https://datascience.virginia.edu/"
+- name: University of Virginia
+  url: "https://www.virginia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a computational social scientist and network scientist with a passion for uncovering how interconnectedness shapes our lives.
 
-interests:
-- Computational Social Science
-- Network Science
-- Science of Science
-- Complex Systems
-- Information and Control in Complex Systems
+#interests:
+#- Computational Social Science
+#- Network Science
+#- Science of Science
+#- Complex Systems
+#- Information and Control in Complex Systems
 
 
-education:
-  courses:
-  - course: joint Ph.D. in Informatics (Complex Systems & Networks) and Cognitive Science
-    institution: Indiana University, Bloomington
-    year: 2017
-  - course: M.Sc. in Mathematical Modelling for Complex System
-    institution: King's College London
-    year: 2012
-  - course: BA in Mathematics & Physics
-    institution: Cornell University
-    year: 2009
+#education:
+#  courses:
+#  - course: joint Ph.D. in Informatics (Complex Systems & Networks) and Cognitive Science
+#    institution: Indiana University, Bloomington
+#    year: 2017
+#  - course: M.Sc. in Mathematical Modelling for Complex System
+#    institution: King's College London
+#    year: 2012
+#  - course: BA in Mathematics & Physics
+#    institution: Cornell University
+#    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +52,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:ajgates42@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: "https://twitter.com/Alex_Gates42"
+  link: "https://twitter.com/complexgates"
 - icon: "google-scholar"
   icon_pack: ai
   link: "https://scholar.google.com/citations?user=lWadInsAAAAJ&hl=en"
@@ -68,7 +66,7 @@ social:
   link: files/Gates_CV_12_20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "agates@virginia.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,4 +75,6 @@ user_groups:
 - Visitors
 ---
 
-My research explores *how interconnectedness shapes the social, scientific, and business world around us.*  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology. 
+My research explores *how interconnectedness shapes the social, scientific, and business world around us.*  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology.  My current focus is in the Science of Science where my group analyzes and models how organizational structure and strategic decisions impact innovation, creativity, and success. 
+
+Before arriving at UVA, I received a joint Ph.D. degree in Informatics (focusing on complex networks) and Cognitive Science from Indiana University, Bloomington, an MSc from King's College London in complex systems modeling and a BA in mathematics from Cornell University.

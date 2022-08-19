@@ -17,13 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Profressor of Data Science"
+  company = "University of Virginia"
+  company_url = ""
+  location = "Charlottesville, VA"
+  date_start = "2022-08-01"
+  date_end = ""
+  description = """"""
+
 [[experience]]
   title = "Associate Research Scientist"
   company = "Northeastern University"
   company_url = ""
   location = "Boston, MA"
-  date_start = "2019-09-01"
-  date_end = ""
+  date_start = "2021-08-01"
+  date_end = "2022-08-01"
+  description = """Department of Sociology and Anthropology."""
+
+[[experience]]
+  title = "Associate Research Scientist"
+  company = "Northeastern University"
+  company_url = ""
+  location = "Boston, MA"
+  date_start = "2019-08-01"
+  date_end = "2021-08-01"
   description = """Science of Success group leader in the [BarabasiLab](https://www.barabasilab.com)."""
 
 [[experience]]
@@ -32,7 +51,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Boston, MA"
   date_start = "2017-06-17"
-  date_end = "2019-08-31"
+  date_end = "2019-08-01"
   description = """Researcher in the [BarabasiLab](https://www.barabasilab.com) focusing on the Science of Success."""
 
 +++

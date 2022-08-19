@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ajgates42@gmail.com"
+email = "agates@virgina.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "177 Huntington Ave", city = "Boston", region = "MA", postcode = "02445", country = "United States", country_code = "US"}
+address = {street = "164A Elson Hall, 400 Brandon Ave", city = "Charlottesville", region = "VA", postcode = "22903", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.345600", longitude = "-71.0826"}
+coordinates = {latitude = "38.03219204528114", longitude = "-78.50345511164029"}
 
 # Directions for visitors to locate you.
-directions = "Take the elevator to the 11th floor."
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Alex_Gates42"
+twitter = "ComplexGates"
 
 ############################
 ## Regional Settings
