@@ -1,26 +1,24 @@
 ---
 # Display name
-title: Alexander J. Gates
+title: Charles Levine
 
 # Username (this should match the folder name)
 authors:
-- gates
+- charles
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Assistant Professor
+role: "Visiting Student"
 
 # Organizations/Affiliations
 organizations:
-- name: School of Data Science
-  url: "https://datascience.virginia.edu/"
-- name: University of Virginia
-  url: "https://www.virginia.edu/"
+- name: United States Military Academy
+  url: "https://www.westpoint.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computational social scientist and network scientist with a passion for uncovering how interconnectedness shapes our lives.
+bio: Major, United States Army
 
 #interests:
 #- Computational Social Science
@@ -47,33 +45,35 @@ bio: I am a computational social scientist and network scientist with a passion 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ajgates42@gmail.com".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:ajgates42@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: "https://twitter.com/complexgates"
 - icon: "google-scholar"
   icon_pack: ai
   link: "https://scholar.google.com/citations?user=lWadInsAAAAJ&hl=en"
+- icon: linkedin
+  icon_pack: fab
+  link: "https://www.linkedin.com/in/charles-levine-39570337/"
 - icon: github
   icon_pack: fab
   link: "https://github.com/ajgates42"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/Gates_CV_12_20.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Gates_CV_12_20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "agates@virginia.edu"
+email: "charles.levine@westpoint.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
+- Visitors
 ---
 
-My research explores *how interconnectedness shapes the social, scientific, and business world around us.*  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology.  My current focus is in the Science of Science where my group analyzes and models how organizational structure and strategic decisions impact innovation, creativity, and success. 
-
-Before arriving at UVA, I received a joint Ph.D. degree in Informatics (focusing on complex networks) and Cognitive Science from Indiana University, Bloomington, an MSc from King's College London in complex systems modeling and a BA in mathematics from Cornell University.
+Director, Network Science Center at United States Military Academy at West Point. Writing my PhD Dissertation researching the NetSci of Talent Management

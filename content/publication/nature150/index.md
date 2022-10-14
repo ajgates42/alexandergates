@@ -67,6 +67,16 @@ projects: []
 slides: ""
 ---
 
+{{< youtube GW4s58u8PZo >}}
+
+
+Awards:
+--------
+1. [**Webby Award**](https://winners.webbyawards.com/2020/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/122366/150-years-of-nature)
+2. [**Webby People's Choice Award**](https://winners.webbyawards.com/2020/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/122366/150-years-of-nature)
+3. [**Fast Company's 2020 Innovation by Design Finalist**](https://www.fastcompany.com/90547935/data-design-innovation-by-design-2020)
+
+
 In the Media:
 --------
 1. **Fast Company** [``This mesmerizing 3D map visualizes millions of scientific studies''](https://www.fastcompany.com/90427630/this-mesmerizing-image-charts-millions-of-scientific-studies-over-150-years )

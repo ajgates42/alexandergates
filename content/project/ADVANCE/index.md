@@ -33,6 +33,8 @@ url_video: "https://www.youtube.com/watch?v=FfG1PArP5WY"
 slides: ""
 ---
 
+{{< youtube FfG1PArP5WY >}}
+
 We are mapping the network of individuals and organizations involved in the NSF ADVANCE Program and quantifying how these networks potentially facilitated the exchange of expertise and knowledge about gender equity and organizational transformation. Using publication histories and network science, we are working to understand how gendered collaboration patterns have changed following ADVANCE funding and trace the diffusion of innovative ideas emerging from ADVANCE funded research teams. This research has the potential to identify effective means to scale the transfer of knowledge about organizational intervention strategies that promote diversity & inclusivity.
 
 https://zippelwebpage.github.io/zippelWebPage/
