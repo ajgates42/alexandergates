@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Charles Levine
+title: Yessic Herrera-Guzman 
 
 # Username (this should match the folder name)
 authors:
-- charles
+- yessie
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,11 +14,11 @@ role: "Visiting Student"
 
 # Organizations/Affiliations
 organizations:
-- name: United States Military Academy
-  url: "https://www.westpoint.edu/"
+- name: Universidad del Desarrollo, Chile
+  url: "https://dccs.udd.cl/persona/yessica-herrera-2/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Major, United States Army
+bio: Data Science and Ballet
 
 #interests:
 #- Computational Social Science
@@ -50,13 +50,13 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:ajgates42@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: "https://twitter.com/complexgates"
+  link: "https://twitter.com/yessieXIV"
 #- icon: "google-scholar"
 #  icon_pack: ai
 #  link: "https://scholar.google.com/citations?user=lWadInsAAAAJ&hl=en"
 - icon: linkedin
   icon_pack: fab
-  link: "https://www.linkedin.com/in/charles-levine-39570337/"
+  link: "https://www.linkedin.com/in/yessicaherrera/?locale=en_US"
 #- icon: github
 #  icon_pack: fab
 #  link: "https://github.com/ajgates42"
@@ -67,7 +67,7 @@ social:
 #  link: files/Gates_CV_12_20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "charles.levine@westpoint.edu"
+email: "yherrerag@udd.cl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Director, Network Science Center at United States Military Academy at West Point. Writing my PhD Dissertation researching the NetSci of Talent Management
+PhD Candidate in Social Complexity Sciences
