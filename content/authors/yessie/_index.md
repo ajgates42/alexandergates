@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yessic Herrera-Guzman 
+title: Yessica Herrera-Guzman 
 
 # Username (this should match the folder name)
 authors:

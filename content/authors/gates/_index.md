@@ -74,8 +74,10 @@ user_groups:
 - Principal Investigators
 ---
 
-My research explores *how interconnectedness shapes the social, scientific, and business world around us.*  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology.  My current focus is in the Science of Science where my group analyzes and models how organizational structure and strategic decisions impact innovation, creativity, and success. 
+My research explores how *interconnectedness* and *organizations* shapes the scientific, artistic and business world around us.  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology.  My current focus is in the Science of Science where my group analyzes and models how organizational structure and strategic decisions impact innovation, creativity, and success. 
 
 Before arriving at UVA, I received a joint Ph.D. degree in Informatics (focusing on complex networks) and Cognitive Science from Indiana University, Bloomington, an MSc from King's College London in complex systems modeling and a BA in mathematics from Cornell University.
 
-:rotating_light: I am have an open hire for a postdoctoral research scholar!  \\ Email me to learn more!  :rotating_light:
+:rotating_light: I am have an open hire for a postdoctoral research scholar!
+\
+Email me to learn more!  :rotating_light:
