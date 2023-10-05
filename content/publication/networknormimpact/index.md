@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The impact of a scientific publication is often measured by the number of citations it receives
+abstract: "The impact of a scientific publication is often measured by the number of citations it receives
 from the scientific community. However, citation count is susceptible to well-documented
 variations in citation practices across time and discipline, limiting our ability to compare
 different scientific achievements. Previous efforts to account for citation variations often rely
@@ -35,7 +35,7 @@ identify science-wide high impact research in the past half century and quantify
 production dynamics across disciplines, helping us identifying breakthroughs from diverse,
 smaller disciplines, such as geosciences, radiology, and optics, as opposed to citation-rich
 biomedical sciences. Our work provides insights into the evolution of science and paves a
-way for fair comparisons of the impact of diverse contributions across many fields.
+way for fair comparisons of the impact of diverse contributions across many fields."
 
 # Summary. An optional shortened abstract.
 summary: ''
