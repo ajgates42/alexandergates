@@ -59,6 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: "https://github.com/ajgates42"
+- icon: orcid
+  icon_pack: fab
+  link: "https://orcid.org/0000-0003-0099-7480"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -77,3 +80,5 @@ user_groups:
 My research explores how *interconnectedness* and *organizations* shapes the scientific, artistic and business world around us.  I employ a highly multidisciplinary approach---combining tools and techniques from Computational Social Science, Data Science, and Network Science with theory from Sociology.  My current focus is in the Science of Science where my group analyzes and models how organizational structure and strategic decisions impact innovation, creativity, and success. 
 
 Before arriving at UVA, I received a joint Ph.D. degree in Informatics (focusing on complex networks) and Cognitive Science from Indiana University, Bloomington, an MSc from King's College London in complex systems modeling and a BA in mathematics from Cornell University.
+
+See my career on OpenAlex: https://openalex.org/A2145501191
