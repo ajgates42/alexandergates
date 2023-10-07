@@ -71,6 +71,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "agates@virginia.edu"
 
+# See my career on OpenAlex: https://openalex.org/A2145501191
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -81,4 +83,4 @@ My research explores how *interconnectedness* and *organizations* shapes the sci
 
 Before arriving at UVA, I received a joint Ph.D. degree in Informatics (focusing on complex networks) and Cognitive Science from Indiana University, Bloomington, an MSc from King's College London in complex systems modeling and a BA in mathematics from Cornell University.
 
-See my career on OpenAlex: https://openalex.org/A2145501191
+
