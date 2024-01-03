@@ -1,0 +1,4 @@
+[submodule "public/ajgates42.github.io"]
+	path = public/ajgates42.github.io
+	url = https://github.com/ajgates42/ajgates42.github.io.git
+	branch = master
