@@ -6,7 +6,7 @@ authors:
 - Albert-Laszlo Barabasi
 
 date: "2023-8-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1073/pnas.2309378120"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-01T00:00:00Z"
@@ -15,39 +15,25 @@ publishDate: "2023-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Proceedings of the National Academy of Sciences (PNAS)* **120** (48)"
 publication_short: ""
 
-abstract: "The impact of a scientific publication is often measured by the number of citations it receives
-from the scientific community. However, citation count is susceptible to well-documented
-variations in citation practices across time and discipline, limiting our ability to compare
-different scientific achievements. Previous efforts to account for citation variations often rely
-on a priori discipline labels of papers, assuming that all papers in a discipline are identical in
-their subject matter. Here we propose a network-based methodology to quantify the impact of
-an article by comparing it with locally comparable research, thereby eliminating the discipline
-label requirement. We show that the developed measure is not susceptible to discipline
-bias and follows a universal distribution for all articles published in different years, offering
-an unbiased indicator for impact across time and discipline. We then use the indicator to
-identify science-wide high impact research in the past half century and quantify its temporal
-production dynamics across disciplines, helping us identifying breakthroughs from diverse,
-smaller disciplines, such as geosciences, radiology, and optics, as opposed to citation-rich
-biomedical sciences. Our work provides insights into the evolution of science and paves a
-way for fair comparisons of the impact of diverse contributions across many fields."
+abstract: "The impact of a scientific publication is often measured by the number of citations it receives from the scientific community. However, citation count is susceptible to well-documented variations in citation practices across time and discipline, limiting our ability to compare different scientific achievements. Previous efforts to account for citation variations often rely on a priori discipline labels of papers, assuming that all papers in a discipline are identical in their subject matter. Here, we propose a network-based methodology to quantify the impact of an article by comparing it with locally comparable research, thereby eliminating the discipline label requirement. We show that the developed measure is not susceptible to discipline bias and follows a universal distribution for all articles published in different years, offering an unbiased indicator for impact across time and discipline. We then use the indicator to identify science-wide high impact research in the past half century and quantify its temporal production dynamics across disciplines, helping us identifying breakthroughs from diverse, smaller disciplines, such as geosciences, radiology, and optics, as opposed to citation-rich biomedical sciences. Our work provides insights into the evolution of science and paves a way for fair comparisons of the impact of diverse contributions across many fields."
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 tags:
 - ScienceOfScience
-featured: false
+featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.pnas.org/doi/10.1073/pnas.2309378120'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -78,7 +64,9 @@ projects: ['pyscisci']
 slides: ""
 ---
 
-
+In the Media:
+--------
+1. **SDS News** [``New Research Demonstrates More Effective Method for Measuring Impact of Scientific Publications''](https://datascience.virginia.edu/news/new-research-demonstrates-more-effective-method-measuring-impact-scientific-publications)
         
 
 

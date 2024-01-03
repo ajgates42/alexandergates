@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Visiting Student"
+role: "Alumni"
 
 # Organizations/Affiliations
 organizations:
@@ -67,13 +67,12 @@ social:
 #  link: files/Gates_CV_12_20.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yherrerag@udd.cl"
+email: "yesstocarrots@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Alumni
 ---
 
-PhD Candidate in Social Complexity Sciences
+Postdoc at University of Chicago
